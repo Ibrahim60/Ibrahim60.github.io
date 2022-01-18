@@ -1,8 +1,9 @@
+# Ibrahim60.github.io
 # One Page Simple portfolio Website 
-<h5> This is my portfolio website.
-<h5> External libraries used: </p>
-<h5>
-<h5>Font-Awesome is used for icons</li>
-<h5>Animate.css is used for animations</li>
-</ul>
+
+This is my portfolio website.
+External libraries used:
+### Font-Awesome is used for icons
+### Animate.css is used for animations
+
 <h5>for more queries or any details <a href="mailto:ibrahim.cs2017@gmail.com">mail</a></h5><hr>
